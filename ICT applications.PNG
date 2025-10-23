@@ -1,0 +1,49 @@
+<html>
+ <head>
+ <title>ICT APPLICATIONS</title>
+ </head>
+ 
+ <body>
+ <center><h1>6.5 booking system</h1></center>
+ <p>6.5 booking system.Este tema habla de todo a lo que se consentra en las reservas de hoteles,restaurantes,teatro y mucho mas 
+que tiene que ver con las reservas.</p>
+
+<big>Propósito y Funcionalidad:</big>
+
+<tt>Explica que un sistema de reservas (booking system) es una aplicación o plataforma que automatiza el proceso de reserva.</tt>
+<tt>Permite a los usuarios ver la disponibilidad de un servicio o producto en tiempo real y realizar una reserva.</tt>
+<tt>También ayuda a los proveedores a gestionar sus inventarios
+(por ejemplo, cuántas habitaciones de hotel quedan, cuántos cupos hay para un evento).</tt>
+ 
+<big>Componentes Principales:</big>
+
+<tt>Interfaz de Usuario (UI): Es lo que el cliente ve y con lo que interactúa. Suele incluir calendarios, formularios para ingresar datos 
+(nombre, fechas, número de personas), opciones de pago y confirmación.</tt>
+<tt>Base de Datos: Almacena toda la información relevante: detalles de los servicios/productos, disponibilidad, reservas existentes,
+información de los clientes.</tt>
+<tt>Motor de Reservas (Booking Engine): Es el "cerebro" del sistema. Se encarga de verificar la disponibilidad, 
+calcular precios (si aplica), procesar la reserva y actualizar la base de datos.</tt>
+<tt>Pasarela de Pago (Payment Gateway): Si la reserva requiere un pago, 
+esta componente se encarga de procesar transacciones de forma segura.</tt>
+<tt>Sistema de Notificación: Envía confirmaciones por correo electrónico o SMS al cliente y al proveedor.</tt>
+
+<big>Proceso Típico de una Reserva:</big>
+
+<tt>El usuario accede a la plataforma.</tt>
+<tt>Selecciona el servicio o producto deseado y las fechas/horas.</tt>
+<tt>El sistema verifica la disponibilidad en la base de datos.</tt>
+<tt>Si hay disponibilidad, se muestra al usuario.</tt>
+<tt>El usuario completa la información requerida y, si es necesario, realiza el pago.</tt>
+<tt>El motor de reservas registra la transacción, actualiza la disponibilidad y genera una confirmación.</tt>
+<tt>Se envían notificaciones automáticas.
+
+Beneficios:
+
+<big>Beneficios:</big>
+
+<tt>Para los Clientes: Conveniencia (reservar 24/7 desde cualquier lugar), transparencia en la disponibilidad y precios, proceso rápido.</tt>
+<tt>Para los Proveedores: Mayor eficiencia operativa (reduce la carga de trabajo manual), mejor gestión de inventario, reducción de errores,
+posibilidad de alcanzar a más clientes, recopilación de datos para análisis.</tt>
+
+
+
